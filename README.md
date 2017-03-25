@@ -16,3 +16,4 @@ $laptop: ssh -l bfortuner@DEEPLEARNINGIP
 $server: jupyter notebook --no-browser --port=8888
 $laptop: ssh -NL 8888:localhost:8888 bfortuner@DEEPLEARNINGIP
 ```
+Now you can visit http://localhost:8888 in your laptop’s browser and start editing the notebooks on your deep learning machine!
