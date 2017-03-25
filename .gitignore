@@ -1,0 +1,14 @@
+*~
+*.npy
+*.pyc
+images/
+results/*
+conversion/
+/conversion
+!/conversion/.dockerignore
+!/conversion/Dockerfile
+!/conversion/README.md
+/images
+/.idea/
+.ipynb_checkpoints
+.idea/
