@@ -3,7 +3,8 @@ pretrainedweights.tar.gz
 *.npy
 *.pyc
 images/
-results/*.*
+results/*
+!/results/donotdelete.txt
 conversion/
 /conversion
 !/conversion/.dockerignore
