@@ -1,3 +1,14 @@
+Setup
+-------
+1. Run these commands
+```
+cd deephacks
+wget https://s3-us-west-1.amazonaws.com/deephacks2017/pretrainedweights.tar.gz
+tar -xvf images.tar.gz
+tar -xvf pretrainedweights.tar.gz
+```
+2. Update the PATHS in the notebooks to point to your deephacks directory
+
 Keras implementation of DilatedNet for semantic segmentation
 ============================================================
 
