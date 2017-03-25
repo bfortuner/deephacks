@@ -1,3 +1,4 @@
+*.h5
 pretrainedweights.tar.gz
 *~
 *.npy
