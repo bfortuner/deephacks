@@ -6,6 +6,7 @@ cd deephacks
 wget https://s3-us-west-1.amazonaws.com/deephacks2017/pretrainedweights.tar.gz
 tar -xvf images.tar.gz
 tar -xvf pretrainedweights.tar.gz
+wget https://s3-us-west-1.amazonaws.com/deephacks/van_gogh/v1.h5 -P weights/van_gogh/v1.h5
 jupyter notebook
 ```
 2. Update the PATHS in the notebooks to point to your deephacks directory
