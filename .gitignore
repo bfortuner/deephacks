@@ -1,8 +1,9 @@
+pretrainedweights.tar.gz
 *~
 *.npy
 *.pyc
 images/
-results/*
+results/*.*
 conversion/
 /conversion
 !/conversion/.dockerignore
